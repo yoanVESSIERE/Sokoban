@@ -9,7 +9,7 @@ A sokoban **game**
 
 ## Play to your map
 
-You can play to a map that you create, just create a file with the ```./my_sokoban -h``` accommodation.
+You can play to a map that you create, just create a file with the ```./my_sokoban -h```
 
 ### Requirement
 
