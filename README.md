@@ -7,6 +7,10 @@ A sokoban **game**
 2) Type ```make```  
 3) Type ```./my_sokoban -h``` to see the parameter list
 
+## Play to your map
+
+You can play to a map that you create, just create a file with the ```./my_sokoban -h``` accommodation.
+
 ### Requirement
 
 LibN Curse [download](https://pkgs.org/download/libncurses-dev)
